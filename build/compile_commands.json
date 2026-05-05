@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/leo/projects/LRUCache/build",
-  "command": "/usr/bin/g++  -I/home/leo/projects/LRUCache -I/home/leo/projects/LRUCache/containers -g -std=gnu++17 -s -o CMakeFiles/LRUCache.dir/test.cpp.o -c /home/leo/projects/LRUCache/test.cpp",
-  "file": "/home/leo/projects/LRUCache/test.cpp",
-  "output": "CMakeFiles/LRUCache.dir/test.cpp.o"
-}
-]
