@@ -14,4 +14,4 @@ target_include_directories(LRUCache PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/containers
 )
 
-target_compile_options(LRUCache PRIVATE -s)
+target_compile_options(LRUCache PRIVATE -O2)
