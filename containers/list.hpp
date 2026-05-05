@@ -31,7 +31,8 @@ class list{
 
     template<typename Key,typename Val>
     friend class hash_map;
-public:
+
+    public:
     class const_iterator;
 
     class iterator{
